@@ -1,5 +1,11 @@
 # Peak Mountain Resort - Case Competition🏠📈
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Challenge](#challenge)
+- [Approach and Methodology](#approach-&-methodology)
+- [Technology Stack](#tech-stack)
+
 ## Project Overview
 
 Peak Mountain Resort, a premier destination for year-round outdoor adventures, was experiencing multiple operational challenges including seasonal safety concerns, aging infrastructure, slow emergency response times, and rising operational costs.
