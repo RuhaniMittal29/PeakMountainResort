@@ -1,4 +1,4 @@
-# Peak Mountain Resort - Case Competition🏠📈
+# Peak Mountain Resort - Case Competition
 
 ## Table of Contents
 - [Project Overview](#project-overview)
